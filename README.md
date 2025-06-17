@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-# Якушенко Антон Александрович — QA Engineer / Automation (Python)
-
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-passing-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+# Якушенко Антон Александрович — QA Engineer / Automation 
 
 ## Обо мне
 Я — Fullstack QA Engineer с более чем 4 годами опыта в тестировании мобильных
