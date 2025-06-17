@@ -6,10 +6,6 @@
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-passing-brightgreen)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Оглавление
-- [Обо мне](#обо-мне)
-- [Навыки](#навыки)
-- [Контакты](#контакты)
 
 ## Обо мне
 Я — Fullstack QA Engineer с более чем 4 годами опыта в тестировании мобильных
